@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite>
+<testsuite name="My first test suite">
 
   <!-- if your classname does not include a dot, the package defaults to "(root)" -->
-  <testcase name="my testcase" classname="my package.my classname" time="29">
+  <testcase name="bashtest1" time="29">
 
     <!-- If the test didn't pass, specify ONE of the following 3 cases -->
 

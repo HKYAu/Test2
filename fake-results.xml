@@ -2,18 +2,17 @@
 <testsuite name="My first test suite">
 
   <!-- if your classname does not include a dot, the package defaults to "(root)" -->
-  <testcase classname="henry.sad.fake-test" name="bashtest1" time="29">
+  <testcase classname="henry.sad.fake-test" name="bashtest1" time="29" />
+  <testcase classname="not.working" name="notworking" time="10">
+      <!-- If the test didn't pass, specify ONE of the following 3 cases -->
 
-    <!-- If the test didn't pass, specify ONE of the following 3 cases -->
-
-    <!-- option 1 --> <skipped />
-    <!-- option 2 --> <failure message="my failure message">my stack trace</failure>
-    <!-- option 3 --> <error message="my error message">my crash report</error>
+      <!-- option 1 --> <skipped />
+      <!-- option 2 --> <failure message="my failure message">my stack trace</failure>
+      <!-- option 3 --> <error message="my error message">my crash report</error>
 
     <system-out>my STDOUT dump</system-out>
 
     <system-err>my STDERR dump</system-err>
 
-  </testcase>
-
+  </testcase>   
 </testsuite>

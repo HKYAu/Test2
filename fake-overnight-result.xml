@@ -1,5 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
+<testng-results>
 <suite name="Examples Overnight Test Suite" verbose="1" parallel="false" thread-count="2"
     data-provider-thread-count="3">
 
@@ -18,3 +19,4 @@
         </class>
     </test> 
 </suite>
+</testng-results>

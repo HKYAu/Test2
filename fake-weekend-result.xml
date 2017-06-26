@@ -92,29 +92,29 @@
     </test>
     <test name="HXC33">
         <class name="HXC.feature.HXC-33">
+            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC34">
         <class name="HXC.feature.HXC-34">
+            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC35">
         <class name="HXC.feature.HXC-35">
+            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC36">
         <class name="HXC.feature.HXC-36">
-            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC37">
         <class name="HXC.feature.HXC-37">
-            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC38">
         <class name="HXC.feature.HXC-38">
-            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>     
     

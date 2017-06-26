@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Examples Overnight Test Suite" verbose="1" parallel="false" thread-count="2"
+    data-provider-thread-count="3">
+
+    <test name="Overnight Test">
+        <classes>
+            <class name="HXC.unit.HXC-1">
+                <test-method status="FAIL"/>
+            </class>
+            <class name="HXC.unit.HXC-2">
+                <test-method status="FAIL"/>
+            </class>
+            <class name="HXC.unit.HXC-3">
+                <test-method status="FAIL"/>
+            </class>
+            <class name="HXC.unit.HXC-4">
+                <test-method status="FAIL"/>
+            </class>
+        </classes>
+    </test>
+ 
+</suite>

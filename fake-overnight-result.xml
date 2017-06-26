@@ -6,23 +6,41 @@
 
     <test name="HXC1">
         <class name="HXC.unit.HXC-1">
-            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC2">
         <class name="HXC.unit.HXC-2">
-            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC3">
         <class name="HXC.unit.HXC-3">
-            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC4">
         <class name="HXC.unit.HXC-4">
+        </class>
+    </test> 
+    <test name="HXC5">
+        <class name="HXC.unit.HXC-5">
+        </class>
+    </test>
+    <test name="HXC6">
+        <class name="HXC.unit.HXC-6">
+        </class>
+    </test>
+    <test name="HXC7">
+        <class name="HXC.unit.HXC-7">
+            <test-method status="FAIL" name="testmethod"></test-method>
+        </class>
+    </test>
+    <test name="HXC8">
+        <class name="HXC.unit.HXC-8">
             <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test> 
+    <test name="HXC19">
+        <class name="HXC.integration.HXC-19">
+        </class>
+    </test>
 </suite>
 </testng-results>

@@ -6,22 +6,22 @@
 
     <test name="HXC1">
         <class name="HXC.unit.HXC-1">
-            <test-method status="FAIL"></test-method>
+            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC2">
         <class name="HXC.unit.HXC-2">
-            <test-method status="FAIL"></test-method>
+            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC3">
         <class name="HXC.unit.HXC-3">
-            <test-method status="FAIL"></test-method>
+            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
     <test name="HXC4">
         <class name="HXC.unit.HXC-4">
-            <test-method status="FAIL"></test-method>
+            <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test> 
 </suite>

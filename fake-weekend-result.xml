@@ -66,31 +66,53 @@
             <test-method status="FAIL" name="testmethod"></test-method>
         </class>
     </test>
-    <test name="Feature Tests">
+    <test name="HXC27">
         <class name="HXC.Feature.HXC-27">
         </class>
+    </test>
+    <test name="HXC28">
         <class name="HXC.Feature.HXC-28">
         </class>
+    </test>
+    <test name="HXC29">
         <class name="HXC.Feature.HXC-29">
         </class>
+    </test>
+    <test name="HXC30">
         <class name="HXC.Feature.HXC-30">
         </class>
+    </test>
+    <test name="HXC31">
         <class name="HXC.Feature.HXC-31">
         </class>
+    </test>
+    <test name="HXC32">
         <class name="HXC.Feature.HXC-32">
         </class>
+    </test>
+    <test name="HXC33">
         <class name="HXC.Feature.HXC-33">
         </class>
+    </test>
+    <test name="HXC34">
         <class name="HXC.Feature.HXC-34">
         </class>
+    </test>
+    <test name="HXC35">
         <class name="HXC.Feature.HXC-35">
         </class>
+    </test>
+    <test name="HXC36">
         <class name="HXC.Feature.HXC-36">
             <test-method status="FAIL" name="testmethod"></test-method>
         </class>
+    </test>
+    <test name="HXC37">
         <class name="HXC.Feature.HXC-37">
             <test-method status="FAIL" name="testmethod"></test-method>
         </class>
+    </test>
+    <test name="HXC38">
         <class name="HXC.Feature.HXC-38">
             <test-method status="FAIL" name="testmethod"></test-method>
         </class>

@@ -1,0 +1,100 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<testng-results>
+<suite name="Examples Overnight Test Suite" verbose="1" parallel="false" thread-count="2"
+    data-provider-thread-count="3">
+
+    <test name="HXC1">
+        <class name="HXC.unit.HXC-1">
+        </class>
+    </test>
+    <test name="HXC2">
+        <class name="HXC.unit.HXC-2">
+        </class>
+    </test>
+    <test name="HXC3">
+        <class name="HXC.unit.HXC-3">
+        </class>
+    </test>
+    <test name="HXC4">
+        <class name="HXC.unit.HXC-4">
+        </class>
+    </test> 
+    <test name="HXC5">
+        <class name="HXC.unit.HXC-5">
+        </class>
+    </test>
+    <test name="HXC6">
+        <class name="HXC.unit.HXC-6">
+        </class>
+    </test>
+    <test name="HXC7">
+        <class name="HXC.unit.HXC-7">
+        </class>
+    </test>
+    <test name="HXC8">
+        <class name="HXC.unit.HXC-8">
+        </class>
+    </test> 
+    <test name="HXC19">
+        <class name="HXC.integration.HXC-19">
+        </class>
+    </test>
+    <test name="HXC20">
+        <class name="HXC.integration.HXC-20">
+        </class>
+    </test> 
+    <test name="HXC21">
+        <class name="HXC.integration.HXC-21">
+        </class>
+    </test> 
+    <test name="HXC22">
+        <class name="HXC.integration.HXC-22">
+            <test-method status="FAIL" name="testmethod"></test-method>
+        </class>
+    </test>
+    <test name="HXC24">
+        <class name="HXC.stress.HXC-24">
+        </class>
+    </test>
+    <test name="HXC25">
+        <class name="HXC.stress.HXC-25">
+        </class>
+    </test>
+    <test name="HXC26">
+        <class name="HXC.stress.HXC-26">
+            <test-method status="FAIL" name="testmethod"></test-method>
+        </class>
+    </test>
+    <test name="Feature Tests">
+        <class name="HXC.Feature.HXC-27">
+        </class>
+        <class name="HXC.Feature.HXC-28">
+        </class>
+        <class name="HXC.Feature.HXC-29">
+        </class>
+        <class name="HXC.Feature.HXC-30">
+        </class>
+        <class name="HXC.Feature.HXC-31">
+        </class>
+        <class name="HXC.Feature.HXC-32">
+        </class>
+        <class name="HXC.Feature.HXC-33">
+        </class>
+        <class name="HXC.Feature.HXC-34">
+        </class>
+        <class name="HXC.Feature.HXC-35">
+        </class>
+        <class name="HXC.Feature.HXC-36">
+            <test-method status="FAIL" name="testmethod"></test-method>
+        </class>
+        <class name="HXC.Feature.HXC-37">
+            <test-method status="FAIL" name="testmethod"></test-method>
+        </class>
+        <class name="HXC.Feature.HXC-38">
+            <test-method status="FAIL" name="testmethod"></test-method>
+        </class>
+    </test>     
+    
+ </suite>
+</testng-results>

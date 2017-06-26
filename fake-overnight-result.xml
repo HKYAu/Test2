@@ -6,16 +6,16 @@
     <test name="Overnight Test">
         <classes>
             <class name="HXC.unit.HXC-1">
-                <test-method status="FAIL"/>
+                <test-method status="FAIL"></test-method>
             </class>
             <class name="HXC.unit.HXC-2">
-                <test-method status="FAIL"/>
+                <test-method status="FAIL"></test-method>
             </class>
             <class name="HXC.unit.HXC-3">
-                <test-method status="FAIL"/>
+                <test-method status="FAIL"></test-method>
             </class>
             <class name="HXC.unit.HXC-4">
-                <test-method status="FAIL"/>
+                <test-method status="FAIL"></test-method>
             </class>
         </classes>
     </test>
